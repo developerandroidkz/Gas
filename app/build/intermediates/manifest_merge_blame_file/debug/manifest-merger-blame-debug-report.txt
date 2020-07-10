@@ -1,0 +1,169 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="dev.main.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:4:5-67
+13-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:4:22-64
+14    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+14-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+14-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:22-62
+15    <uses-feature
+15-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
+16        android:name="android.hardware.camera"
+16-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:26:9-47
+17        android:required="false" />
+17-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:27:9-33
+18    <uses-feature
+18-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
+19        android:name="android.hardware.camera.front"
+19-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
+20        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+20-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
+21    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+22    <uses-feature
+22-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
+23        android:name="android.hardware.camera.autofocus"
+23-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
+24        android:required="false" />
+24-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
+25    <uses-feature
+25-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
+26        android:name="android.hardware.camera.flash"
+26-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
+27        android:required="false" />
+27-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
+28    <uses-feature
+28-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
+29        android:name="android.hardware.screen.landscape"
+29-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
+30        android:required="false" />
+30-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
+31    <uses-feature
+31-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
+32        android:name="android.hardware.wifi"
+32-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+33        android:required="false" />
+33-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
+34
+35    <application
+35-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:7:5-41:19
+36        android:name="dev.main.android.KtApplication"
+36-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:8:9-38
+37        android:allowBackup="true"
+37-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:10:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59634bf3360427ef7f7373ad7fa95cb2\core-1.0.2\AndroidManifest.xml:22:18-86
+39        android:debuggable="true"
+40        android:hardwareAccelerated="true"
+40-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:9:9-43
+41        android:icon="@mipmap/ic_launcher"
+41-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:11:9-43
+42        android:label="@string/app_name"
+42-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:12:9-41
+43        android:supportsRtl="true"
+43-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:13:9-35
+44        android:theme="@style/AppTheme" >
+44-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:14:9-40
+45        <activity
+45-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:9-22:20
+46            android:name="dev.main.android.MainActivity"
+46-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:19-47
+47            android:screenOrientation="portrait" >
+47-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:16:13-49
+48            <intent-filter>
+48-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:17:13-21:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:17-69
+49-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:17-77
+51-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:23:9-24:51
+55            android:name="dev.main.android.PinCode"
+55-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:23:19-42
+56            android:screenOrientation="portrait" />
+56-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:24:13-49
+57        <activity
+57-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:25:9-26:51
+58            android:name="dev.main.android.Choose"
+58-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:25:19-41
+59            android:screenOrientation="portrait" />
+59-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:26:13-49
+60        <activity
+60-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:27:9-28:51
+61            android:name="dev.main.android.ChooseSmena"
+61-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:27:19-46
+62            android:screenOrientation="portrait" />
+62-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:28:13-49
+63        <activity
+63-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:29:9-30:51
+64            android:name="dev.main.android.Info"
+64-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:29:19-39
+65            android:screenOrientation="portrait" />
+65-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:30:13-49
+66        <activity
+66-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:31:9-32:51
+67            android:name="dev.main.android.Oplata"
+67-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:31:19-41
+68            android:screenOrientation="portrait" />
+68-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:32:13-49
+69        <activity
+69-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:33:9-34:51
+70            android:name="dev.main.android.ChangeTaloon"
+70-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:33:19-47
+71            android:screenOrientation="portrait" />
+71-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:34:13-49
+72        <activity
+72-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:35:9-36:51
+73            android:name="dev.main.android.ChangeOplata"
+73-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:35:19-47
+74            android:screenOrientation="portrait" />
+74-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:36:13-49
+75        <activity
+75-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:37:9-38:51
+76            android:name="dev.main.android.SubmitSmena"
+76-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:37:19-46
+77            android:screenOrientation="portrait" />
+77-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:38:13-49
+78        <activity
+78-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:39:9-40:51
+79            android:name="dev.main.android.AboutSmna"
+79-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:39:19-44
+80            android:screenOrientation="portrait" />
+80-->C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:40:13-49
+81        <activity
+81-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+82            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+82-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
+83            android:clearTaskOnLaunch="true"
+83-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+84            android:screenOrientation="sensorLandscape"
+84-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+85            android:stateNotNeeded="true"
+85-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+86            android:theme="@style/zxing_CaptureTheme"
+86-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+87            android:windowSoftInputMode="stateAlwaysHidden" />
+87-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+88    </application>
+89
+90</manifest>

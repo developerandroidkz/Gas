@@ -2,22 +2,42 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="dev.main.android">
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
+        android:name=".KtApplication"
+        android:hardwareAccelerated="true"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PinCode"/>
-        <activity android:name=".Choose"/>
+        <activity android:name=".PinCode"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Choose"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChooseSmena"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Info"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Oplata"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChangeTaloon"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChangeOplata"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".SubmitSmena"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".AboutSmna"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

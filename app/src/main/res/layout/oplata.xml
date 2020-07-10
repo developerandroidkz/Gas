@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Оплата"
+        android:textColor="#000"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        />
+    <RelativeLayout
+        android:id="@+id/sposob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/top"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true">
+        <ToggleButton
+            android:id="@+id/nal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Наличными"
+            android:textOff="Безналичный"
+            android:textOn="Наличный"
+            android:checked="true"
+            android:textSize="20dp"
+            android:padding="10dp"
+            />
+    </RelativeLayout>
+    <EditText
+        android:id="@+id/val_on_litr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sposob"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:hint="Количество в литрах"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:inputType="numberDecimal"
+        />
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:text="Отправить"
+        android:padding="10dp"
+        android:background="#1886F3"
+        android:textColor="#fff"
+        android:layout_below="@+id/val_on_litr"
+        android:layout_margin="10dp"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="25dp"
+        android:textSize="12dp"
+        android:text="28 november 21:12"
+        android:layout_toEndOf="@+id/center"
+        android:layout_marginRight="25dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:id="@+id/org"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="25dp"
+        android:textSize="15dp"
+        android:text="Cache"
+        android:layout_below="@+id/date"
+        android:layout_toEndOf="@+id/center"
+        android:layout_marginRight="25dp"
+        android:textColor="#000"
+        android:layout_marginBottom="25dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/org"
+        android:layout_marginLeft="25dp"
+        android:textSize="15dp"
+        android:text="Card"
+        android:layout_toEndOf="@+id/center"
+        android:layout_marginRight="25dp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:layout_marginBottom="25dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:id="@+id/value_in_litr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/name"
+        android:layout_margin="25dp"
+        android:textSize="20dp"
+        android:text="---"
+        android:textAlignment="center"
+        />
+</RelativeLayout>

@@ -1,14 +1,29 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="t1">t1</string>
-    <string name="t2">t2</string>
-    <string name="t3">t3</string>
+    <string name="app_name">Жол.АГЗС</string>
+    <string name="t1">АГЗС</string>
+    <string name="t2">Адрес</string>
+    <string name="t3">Выбрать другую </string>
     <string name="t4">t4"</string>
-    <string name="t5">t5</string>
+    <string name="t5">Выберите смену</string>
     <string name="t6">t6</string>
     <string name="t7">t7</string>
     <string name="t8">t8</string>
     <string name="t9">t9</string>
     <string name="t10">t10</string>
     <string name="t11">t11</string>
+    <string name="no_internet">Отсутвует подключение к интернету</string>
+    <string name="about_smena">О смене</string>
+    <string name="check_data">Проверка данных...</string>
+    <string name="edit">Редактировать</string>
+    <string name="litr">Введите количество в литрах!</string>
+    <string name="sending">Отправка...</string>
+    <string name="loading_smena_list">Загружаем список смен...</string>
+    <string name="check_qr">Проверка qr-кода...</string>
+    <string name="scan_error">Ошибка при сканировании</string>
+    <string name="loading">Загрузка...</string>
+    <string name="money">Оплата</string>
+    <string name="pin_code_check">Проверка Пин-кода...</string>
+    <string name="submit_smena">Сдать смену</string>
+    <string name="submit_smena_error">Произошла ошибка при сдаче смены! Обратитесь к администратору</string>
+    <string name="pin_code_is_not_valid">Неверный пин-код</string>
 </resources>

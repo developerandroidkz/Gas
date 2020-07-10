@@ -1,0 +1,317 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.andrognito.pinlockview:pinlockview:2.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d66af9c55496cda16b855faeaa577d5e\jetified-pinlockview-2.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\853e86070d3be1044e072def7b653d24\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\76c52dcb42552abe977d418a158e244c\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6589ea9df5e4c5732121f087e6d0e86b\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\f4100db7ed75032fd3e98e82bf570842\volley-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\54df5e4de0f9228e7dec4ebcadd63b71\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:17:1-56:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59ffb483230460499d5fb5d8c80fc32b\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\0f4961789e16053a48691809e8b2abf6\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\9155afee0e20e3fc0d181845a63d956d\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\150b21060805b8d7ec0b9218c18b8fec\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\196f46af8c6b2d0c413f83432af8b852\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\47c1b3ba75eef8f6e1d5f8d90e80f025\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6338a76fd808472776836da60baefb2a\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d4d6f1b618f6740b3852fbc0a4f6708f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d81313297acd4b62a12e1c4be346ea86\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\967fab3a1127d2363e5cc8e33e3e2af3\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\9eeb03172080be4be809eb3b789602a2\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\2f9729e605b8264ea496dc9d63a71ae5\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b403c837ac7d55e559d7b654aa580176\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\2f87e561b9a6cd597921d8f70638d321\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\2fd40eeb356d6c726aa77b69467711ad\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\490f2c64a56af5f6b5ab369851c5d283\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59634bf3360427ef7f7373ad7fa95cb2\core-1.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\ba0831d7b804d3929c74db3353fbbef3\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6ad38dfac4e106a4ff4e5e048c9d7854\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6fec6f5bd41f9541306bc06fc2cfae1b\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\36046ff8fe6f6deaa96866bb67f58a2c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\3adfdbbdc85560396be263737753f758\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\98e10903ebeb7b4fad0c38ed0b5a9f97\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\20eceb4855668000af68723b2e1a5140\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\e05a230acf535e3dec39f0f39ed5f0ca\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\004fb91108e1b1927119709e2ff43030\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\3a3ed459510bf208b94d56b861c80196\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\ab93a8dbadb16e1d4464b7fe897665b9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:7:5-41:19
+MERGED from [com.andrognito.pinlockview:pinlockview:2.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d66af9c55496cda16b855faeaa577d5e\jetified-pinlockview-2.1.0\AndroidManifest.xml:11:5-53
+MERGED from [com.andrognito.pinlockview:pinlockview:2.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d66af9c55496cda16b855faeaa577d5e\jetified-pinlockview-2.1.0\AndroidManifest.xml:11:5-53
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\f4100db7ed75032fd3e98e82bf570842\volley-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\f4100db7ed75032fd3e98e82bf570842\volley-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59634bf3360427ef7f7373ad7fa95cb2\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59634bf3360427ef7f7373ad7fa95cb2\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\ba0831d7b804d3929c74db3353fbbef3\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\ba0831d7b804d3929c74db3353fbbef3\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59634bf3360427ef7f7373ad7fa95cb2\core-1.0.2\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:12:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:9:9-43
+	android:icon
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:8:9-38
+activity#dev.main.android.MainActivity
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:27-74
+activity#dev.main.android.PinCode
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:23:9-24:51
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:23:19-42
+activity#dev.main.android.Choose
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:25:9-26:51
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:25:19-41
+activity#dev.main.android.ChooseSmena
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:27:9-28:51
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:27:19-46
+activity#dev.main.android.Info
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:29:9-30:51
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:29:19-39
+activity#dev.main.android.Oplata
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:31:9-32:51
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:31:19-41
+activity#dev.main.android.ChangeTaloon
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:33:9-34:51
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:33:19-47
+activity#dev.main.android.ChangeOplata
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:35:9-36:51
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:35:19-47
+activity#dev.main.android.SubmitSmena
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:37:9-38:51
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:37:19-46
+activity#dev.main.android.AboutSmna
+ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:39:9-40:51
+	android:screenOrientation
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:39:19-44
+uses-sdk
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+MERGED from [com.andrognito.pinlockview:pinlockview:2.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d66af9c55496cda16b855faeaa577d5e\jetified-pinlockview-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.andrognito.pinlockview:pinlockview:2.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d66af9c55496cda16b855faeaa577d5e\jetified-pinlockview-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\853e86070d3be1044e072def7b653d24\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\853e86070d3be1044e072def7b653d24\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\76c52dcb42552abe977d418a158e244c\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\76c52dcb42552abe977d418a158e244c\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c4b4b829cc770abdd306eef91b3e77f9\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6589ea9df5e4c5732121f087e6d0e86b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6589ea9df5e4c5732121f087e6d0e86b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\f4100db7ed75032fd3e98e82bf570842\volley-1.1.0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\f4100db7ed75032fd3e98e82bf570842\volley-1.1.0\AndroidManifest.xml:7:5-43
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\54df5e4de0f9228e7dec4ebcadd63b71\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\54df5e4de0f9228e7dec4ebcadd63b71\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59ffb483230460499d5fb5d8c80fc32b\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59ffb483230460499d5fb5d8c80fc32b\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6408061dd2c65c0c4a836453184aab7b\glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\0f4961789e16053a48691809e8b2abf6\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\0f4961789e16053a48691809e8b2abf6\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\9155afee0e20e3fc0d181845a63d956d\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\9155afee0e20e3fc0d181845a63d956d\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\150b21060805b8d7ec0b9218c18b8fec\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\150b21060805b8d7ec0b9218c18b8fec\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\196f46af8c6b2d0c413f83432af8b852\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\196f46af8c6b2d0c413f83432af8b852\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\47c1b3ba75eef8f6e1d5f8d90e80f025\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\47c1b3ba75eef8f6e1d5f8d90e80f025\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6338a76fd808472776836da60baefb2a\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6338a76fd808472776836da60baefb2a\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d4d6f1b618f6740b3852fbc0a4f6708f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d4d6f1b618f6740b3852fbc0a4f6708f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d81313297acd4b62a12e1c4be346ea86\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\d81313297acd4b62a12e1c4be346ea86\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\967fab3a1127d2363e5cc8e33e3e2af3\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\967fab3a1127d2363e5cc8e33e3e2af3\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\9eeb03172080be4be809eb3b789602a2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\9eeb03172080be4be809eb3b789602a2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\2f9729e605b8264ea496dc9d63a71ae5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\2f9729e605b8264ea496dc9d63a71ae5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b403c837ac7d55e559d7b654aa580176\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b403c837ac7d55e559d7b654aa580176\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\2f87e561b9a6cd597921d8f70638d321\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\2f87e561b9a6cd597921d8f70638d321\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\2fd40eeb356d6c726aa77b69467711ad\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\2fd40eeb356d6c726aa77b69467711ad\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\490f2c64a56af5f6b5ab369851c5d283\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\490f2c64a56af5f6b5ab369851c5d283\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59634bf3360427ef7f7373ad7fa95cb2\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\59634bf3360427ef7f7373ad7fa95cb2\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\ba0831d7b804d3929c74db3353fbbef3\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\ba0831d7b804d3929c74db3353fbbef3\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6ad38dfac4e106a4ff4e5e048c9d7854\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6ad38dfac4e106a4ff4e5e048c9d7854\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\c3fc2fa8702962b1d6bdf0e7ed22dd65\gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6fec6f5bd41f9541306bc06fc2cfae1b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\6fec6f5bd41f9541306bc06fc2cfae1b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\36046ff8fe6f6deaa96866bb67f58a2c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\36046ff8fe6f6deaa96866bb67f58a2c\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\3adfdbbdc85560396be263737753f758\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\3adfdbbdc85560396be263737753f758\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\98e10903ebeb7b4fad0c38ed0b5a9f97\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\98e10903ebeb7b4fad0c38ed0b5a9f97\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\20eceb4855668000af68723b2e1a5140\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\20eceb4855668000af68723b2e1a5140\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\e05a230acf535e3dec39f0f39ed5f0ca\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\e05a230acf535e3dec39f0f39ed5f0ca\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\004fb91108e1b1927119709e2ff43030\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\004fb91108e1b1927119709e2ff43030\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\3a3ed459510bf208b94d56b861c80196\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\3a3ed459510bf208b94d56b861c80196\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\ab93a8dbadb16e1d4464b7fe897665b9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\ab93a8dbadb16e1d4464b7fe897665b9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sabyrr\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\sabyrr\.gradle\caches\transforms-2\files-2.1\b86c2bd9cb3dfdcdcb55e9cbb716f6c4\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
